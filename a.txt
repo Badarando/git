@@ -2,3 +2,4 @@ Teste
 entendendo o HEAD
 hahahaha
 esta linha foi modificada no ramo master
+esta linha foi modificada no ramo teste
